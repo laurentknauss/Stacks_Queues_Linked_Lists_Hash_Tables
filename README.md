@@ -1,4 +1,4 @@
-# **Stacks , Queues, LinkedLists & HashTables in Golang** 
+# **Stacks , Queues, Linked Lists & Hash Tables in Golang** 
 
 Stacks & queues are basic linear data strcutures.
 Both have flexible size , meaning they grow and shrink dynamically as you take in & take out data.
